@@ -53,11 +53,3 @@ except ValueError as error:
     print('You didn\'t give me a number!')
 
 
-# print('You can ride the roller coaster!')
-
-# sentence = input('Please write a 10 character long string ')
-# if len(sentence) < 10:
-#     print('string not long enough')
-#     exit()
-# # new_sentence = list(sentence)
-# # def()
